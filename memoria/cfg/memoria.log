@@ -1,0 +1,13 @@
+[INFO] 19:53:14:076 MEMORIA/(10295:10295): Soy el modulo memoria!
+[INFO] 19:53:14:076 MEMORIA/(10295:10295): inicio RAM
+[INFO] 19:53:14:077 MEMORIA/(10295:10295): reemplazo MMU es CLOCK MODIFICADO
+[INFO] 19:53:14:077 MEMORIA/(10295:10295): reemplazo TLB es LRU
+[INFO] 19:53:14:077 MEMORIA/(10295:10295): asignacion es DINAMICA
+[INFO] 19:53:14:077 MEMORIA/(10295:10295): inicie el server en puerto de escucha 5
+[INFO] 19:53:14:077 MEMORIA/(10295:10295): espero a swamp
+[INFO] 19:53:20:306 MEMORIA/(10295:10295): se conecto swamp
+espero un carpincho
+[INFO] 19:53:45:036 MEMORIA/(10295:10295): Recibi interrupcion para generar dump de la TLB
+[INFO] 19:53:45:036 MEMORIA/(10295:10295): dumping por compactacion
+[INFO] 19:53:45:038 MEMORIA/(10295:10295): Recibi interrupcion para generar vaciar la TLB
+[INFO] 19:53:51:719 MEMORIA/(10295:10295): Recibi interrupcion para generar vaciar la TLB
